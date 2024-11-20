@@ -1,8 +1,5 @@
 ## Hi there 👋
 
--In the updating progress-
-
-<!--
 **zulkiflizaki/zulkiflizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulkiflizaki\&repo=github-readme-stats)
+
+Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zulkiflizaki\&repo=github-readme-stats\&show_owner=true)
