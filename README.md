@@ -1,6 +1,6 @@
 ## Hi there, my name is Zulkifli 👋
 
-**zulkiflizaki/zulkiflizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- This is a comment **zulkiflizaki/zulkiflizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
