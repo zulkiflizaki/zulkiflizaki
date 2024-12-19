@@ -27,32 +27,25 @@ I'm [Zulkifli Zaki](https://zulkiflizaki.my/), an experienced educator and compu
 
 
 **Github Stats:**
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zulkiflizaki&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulkiflizaki&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-</p>
+</div>
 
 
-<p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
-  
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
-   [![Medium Badge](https://img.shields.io/badge/-@anushka_verma-000000?style=flat&labelColor=000000&logo=Medium&link=https://anushka-verma.medium.com/)](https://anushka-verma.medium.com/) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+<div align="center">
+   <i>Let's connect and chat! Find me on the web...</i>
+ 
+   [![Website Badge](https://img.shields.io/badge/-zulkiflizaki.my-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://zulkiflizaki.my) 
+   [![Linkedin Badge](https://img.shields.io/badge/-zulkiflizaki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulkiflizaki/)](https://www.linkedin.com/in/zulkiflizaki/) 
+   [![Medium Badge](https://img.shields.io/badge/-@zulkiflizaki-000000?style=flat&labelColor=000000&logo=Medium&link=https://zulkiflizaki.medium.com/)](https://zulkiflizaki.medium.com/) 
+   [![Twitter Badge](https://img.shields.io/badge/-@zulkiflizaki-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zulkiflizaki)](https://twitter.com/zulkiflizaki/).
    
-  <p align="center">
-    Show ❤️ by starring and forking repositories you find good!
-  </p>
-</p>
+   <p align="center">
+      Show ❤️ by starring and forking repositories you find good!
+   </p>
+</div>
 
 <div align="right">
-  
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
-
+![ViewCount](https://views.whatilearened.today/views/github/zulkiflizaki/zulkiflizaki) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://zulkiflizaki.my/)
 </div>
