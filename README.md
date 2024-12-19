@@ -1,5 +1,11 @@
 ## Hi there, my name is Zulkifli 👋
 
+I'm [Zulkifli Zaki](https://zulkiflizaki.my/), an experienced educator and computer scientist with a demonstrated history of working in the education and IT industry.
+
+ 
+**Currently I am working ...**
+
+
 <!-- This is a comment **zulkiflizaki/zulkiflizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
