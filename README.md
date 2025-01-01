@@ -1,12 +1,14 @@
 ## Hi there, my name is Zulkifli 👋
 
-I'm [Zulkifli Zaki](https://zulkiflizaki.my/), an experienced educator and computer scientist with a demonstrated history of working in the education and IT industry.
+I'm [Zulkifli Zaki](https://zulkiflizaki.my/), an experienced educator and computer scientist with a demonstrated history of working in the education and IT industry. I am a certified Professional Technologist specialising in Information Technology (IT) and registered with the Malaysia Board of Technologists (MBOT). I have earned my Master’s degree in Computer Science with a specialisation in Software Engineering from the esteemed Universiti Teknologi Malaysia (UTM). 
+
+Currently, I am  fully devoted to my pursuit of a Doctor of Philosophy (PhD) degree. For over 14 years, I have demonstrated an unwavering commitment to Computer Science and Software Engineering in educational and industrial contexts since 2009. My extensive expertise encompasses a broad spectrum of technical knowledge within the fields of Computer Science and Software Engineering. Within the dynamic landscape of Computer Science, I have a profound passion that lies deeply rooted in the captivating domains of Embedded Software and Real-Time Systems.
 
  
 **Currently I am working ...**
 - <div>
      <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/zulkiflizaki/zulkiflizaki/master/images/gfg.png" style="margin-left: -10px" >
-     ... as a <strong>Senior Lecturer</strong> at SEGi College Penang where I have penned down forty plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithm
+     ... as a <strong>Senior Lecturer</strong> at SEGi College Penang where I have penned down forty-plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithm
  </div> 
 
  ---
