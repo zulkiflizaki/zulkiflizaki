@@ -10,6 +10,11 @@ Currently, I am  fully devoted to my pursuit of a Doctor of Philosophy (PhD) deg
      <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/zulkiflizaki/zulkiflizaki/master/images/gfg.png" style="margin-left: -10px" >
      ... as a <strong>Senior Lecturer</strong> at SEGi College Penang where I have penned down forty-plus detailed and comprehensive articles covering various web technologies and Data Structures & Algorithm
  </div> 
+- <div>
+     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/zulkiflizaki/zulkiflizaki/master/images/gfg.png" style="margin-left: -10px" >
+     ... as a <strong>Professional Technologist</strong> under Malaysia Board of Technologist (MBOT).
+ </div> 
+ 
 
  ---
 
